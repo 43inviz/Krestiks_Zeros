@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Projects_C#\Hw_c#\Krestiki_Noliki\bin\Debug\Krestiki_Noliki.exe.config
+C:\Users\User\Desktop\Projects_C#\Hw_c#\Krestiki_Noliki\bin\Debug\Krestiki_Noliki.exe
+C:\Users\User\Desktop\Projects_C#\Hw_c#\Krestiki_Noliki\bin\Debug\Krestiki_Noliki.pdb
+C:\Users\User\Desktop\Projects_C#\Hw_c#\Krestiki_Noliki\obj\Debug\Krestiki_Noliki.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Projects_C#\Hw_c#\Krestiki_Noliki\obj\Debug\Krestiki_Noliki.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projects_C#\Hw_c#\Krestiki_Noliki\obj\Debug\Krestiki_Noliki.exe
+C:\Users\User\Desktop\Projects_C#\Hw_c#\Krestiki_Noliki\obj\Debug\Krestiki_Noliki.pdb
